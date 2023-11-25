@@ -1,8 +1,8 @@
 ![Design and Development](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-<p > 
+
 [![Phieu GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 <picture align="center">
   <source
