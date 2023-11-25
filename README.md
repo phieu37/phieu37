@@ -9,13 +9,14 @@
 * 📚 NEXTJS / NODEJS / JQUERY
 
 ## Certificate
-<img src="https://github.com/phieu37/phieu37/blob/main/images/Codelearn%20JavaScript%20c%C6%A1%20b%E1%BA%A3n.png" width="200" />
-<img src="https://github.com/phieu37/phieu37/blob/main/images/F8%20HTML%20%26%20CSS%20Certificate.png" width="200" />
-<img src="https://github.com/phieu37/phieu37/blob/main/images/F8%20Information%20Technology%20Onboarding%20Certificate.png" width="200" />
-<img src="https://github.com/phieu37/phieu37/blob/main/images/F8%20JavaScript%20Advanced%20Certificate.png" width="200" />
-<img src="https://github.com/phieu37/phieu37/blob/main/images/F8%20JavaScript%20Basic%20Certificate.png" width="200" />
-<img src="https://github.com/phieu37/phieu37/blob/main/images/F8%20Responsive%20Web%20Design%20Certificate.png" width="200" />
-
+<div display="flex">
+  <img src="https://github.com/phieu37/phieu37/blob/main/images/Codelearn%20JavaScript%20c%C6%A1%20b%E1%BA%A3n.png" width="200" />
+  <img src="https://github.com/phieu37/phieu37/blob/main/images/F8%20HTML%20%26%20CSS%20Certificate.png" width="200" />
+  <img src="https://github.com/phieu37/phieu37/blob/main/images/F8%20Information%20Technology%20Onboarding%20Certificate.png" width="200" />
+  <img src="https://github.com/phieu37/phieu37/blob/main/images/F8%20JavaScript%20Advanced%20Certificate.png" width="200" />
+  <img src="https://github.com/phieu37/phieu37/blob/main/images/F8%20JavaScript%20Basic%20Certificate.png" width="200" />
+  <img src="https://github.com/phieu37/phieu37/blob/main/images/F8%20Responsive%20Web%20Design%20Certificate.png" width="200" />
+</div>
 ## Contact
 * 📫 How to reach me: phieu37163@gmail.com
 
