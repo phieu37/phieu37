@@ -1,8 +1,7 @@
 ![Design and Development](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 # Hi there 👋, my name is Phieu. I'm come from Vietnam and I love code.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phieu37&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-![phieu37 GitHub stats](https://github-readme-stats.vercel.app/api?username=phieu37&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phieu37&layout=pie)](https://github.com/anuraghazra/github-readme-stats)![phieu37 GitHub stats](https://github-readme-stats.vercel.app/api?username=phieu37&show_icons=true&bg_color=00000000)
 
 ## Skill
 * ⚛ React
