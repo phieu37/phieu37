@@ -2,7 +2,9 @@
 
 # Hi there 👋, my name is Phieu. I'm come from Vietnam and I love code.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phieu37&show_icons=true&bg_color=00000000)
+![phieu37 GitHub stats](https://github-readme-stats.vercel.app/api?username=phieu37&show_icons=true&bg_color=00000000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phieu37&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture align="center">
   <source
