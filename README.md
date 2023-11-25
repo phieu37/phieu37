@@ -1,5 +1,7 @@
 ![Design and Development](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
+# Hi there 👋, my name is Phieu. I'm come from Vietnam and I love code.
+
 <picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=phieu37&show_icons=true&theme=dark"
@@ -11,8 +13,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=phieu37&show_icons=true" />
 </picture>
-
-# Hi there 👋, my name is Phieu. I'm come from Vietnam and I love code.
 
 ## Skill
 * ⚛ React
