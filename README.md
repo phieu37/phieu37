@@ -9,7 +9,7 @@
 * 📚 NEXTJS / NODEJS / JQUERY
 
 ## Certificate
-<div display="flex">
+<div display="flex" justify-content="space-between">
   <img src="https://github.com/phieu37/phieu37/blob/main/images/Codelearn%20JavaScript%20c%C6%A1%20b%E1%BA%A3n.png" width="200" />
   <img src="https://github.com/phieu37/phieu37/blob/main/images/F8%20HTML%20%26%20CSS%20Certificate.png" width="200" />
   <img src="https://github.com/phieu37/phieu37/blob/main/images/F8%20Information%20Technology%20Onboarding%20Certificate.png" width="200" />
