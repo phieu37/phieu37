@@ -1,6 +1,6 @@
 ![Design and Development](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-# Hi there 👋, my name is Phieu. Design and Development. I'm Phieu from Vietnam and I love code.
+# Hi there 👋, my name is Phieu. I'm come from Vietnam and I love code.
 
 ## Skill
 * ⚛ React
