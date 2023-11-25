@@ -3,20 +3,7 @@
 # Hi there 👋, my name is Phieu. I'm come from Vietnam and I love code.
 
 ![phieu37 GitHub stats](https://github-readme-stats.vercel.app/api?username=phieu37&show_icons=true&bg_color=00000000)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phieu37&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-<picture align="center">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=phieu37&show_icons=true&theme=dark&"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=phieu37&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=phieu37&show_icons=true" />
-</picture>
 
 ## Skill
 * ⚛ React
