@@ -1,7 +1,6 @@
 ![Design and Development](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-# Hi there 👋, my name is Phieu. I'm come from Vietnam and I love code.
-# Favorite quote "My fate depends on me, not on God"
+# Hi there 👋, my name is Phieu. I'm come from Vietnam and I love code. Favorite quote "My fate depends on me, not on God"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phieu37&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![phieu37 GitHub stats](https://github-readme-stats.vercel.app/api?username=phieu37&show_icons=true&bg_color=00000000)
 
