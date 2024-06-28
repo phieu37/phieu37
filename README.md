@@ -8,7 +8,7 @@
 * ⚛ REACT / READUX 
 * 💻 HTML / CSS / SASS / SCSS / TAILWIN / JAVASCRIPT / JAVA / JQUERY  / TYPESCRIPT / NODEJS
 * 🛠 MONGODB 
-* 📚 NEXTJS / NEST / ANGULARJS / VUJS
+* 📚 NEXTJS / NEST / ANGULARJS / VUEJS
 
 ## Certificate
 <div display="flex">
