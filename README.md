@@ -5,9 +5,9 @@
 ![phieu37 GitHub stats](https://github-readme-stats.vercel.app/api?username=phieu37&show_icons=true&bg_color=00000000)
 
 ## Skill
-* ⚛ REACT / READUX / JQUERY / TAILWIN / TYPESCRIPT 
-* 💻 HTML / CSS / JAVASCRIPT / JAVA  
-* 🛠 MONGODB / NODEJS
+* ⚛ REACT / READUX 
+* 💻 HTML / CSS / SASS / SCSS / TAILWIN / JAVASCRIPT / JAVA / JQUERY  / TYPESCRIPT / NODEJS
+* 🛠 MONGODB 
 * 📚 NEXTJS / NEST / ANGULARJS / VUJS
 
 ## Certificate
